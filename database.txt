@@ -1,0 +1,5 @@
+ 1 Apple 20 10 
+ 2 Banana 50 20 
+ 3 Guava 45 3 
+ 4 Strawberry 100 40 
+ 5 Mirchi 56 30 
